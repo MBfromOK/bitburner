@@ -1,5 +1,5 @@
 # bitburner
-##My collection of bitburner Scripts
+## My collection of bitburner Scripts
 
 
 **Note:** Not all this code is my own, I try to give credit where credit is due.
