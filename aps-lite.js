@@ -1,9 +1,14 @@
 /**
- * Auto purchase server (lite version)
- * Only cares about purchasing the server
- * Does not deploy scripts
- * @param {NS} ns 
- * **/
+*  Originally created by chrisrabe for his YouTube Channel and shared via GitHub:
+*  Github: https://github.com/chrisrabe/bitburner-automation
+*  YouTube: https://www.youtube.com/channel/UCXVoS73T7gn9h4PHghPxpuw
+*
+* Auto purchase server (lite version)
+* Only cares about purchasing the server
+* Does not deploy scripts
+* @param {NS} ns 
+*
+**/
  export async function main(ns) {
   ns.disableLog("ALL");
   //ns.enableLog();
