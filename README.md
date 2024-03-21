@@ -7,11 +7,11 @@
 For Example:
 Casually Silent aka chrisrabe produced the multi-threaded and Pirate themed: Flog, Nourish, & Plunder Scripts that I may / may not have modified:
 
-  + aps-lite.js
-  + find-targets.js
+  + aps-lite.js - **Note:** this is not setup correctly, it will buy infinity RAM upgrades - Modified
+  + find-targets.js - Modified
   + launch-Fleets.js
   + pirate.js
-  + utils.js
+  + utils.js - Modified
   + watchtower.js
 
 Chris Rabe on [Github](https://github.com/chrisrabe/bitburner-automation)
