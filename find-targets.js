@@ -1,3 +1,8 @@
+/**
+*  Originally created by chrisrabe for his YouTube Channel and shared via GitHub:
+*  Github: https://github.com/chrisrabe/bitburner-automation
+*  YouTube: https://www.youtube.com/channel/UCXVoS73T7gn9h4PHghPxpuw
+**/
 import {
 	getNetworkNodes,
 	canHack,
